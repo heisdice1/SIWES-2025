@@ -6,4 +6,4 @@ I learnt some basic functions such as:
 -  MIN
 -  MAX
 -  AVERAGE
--  Using the excel Application [download here](www.microsoft.com)
+-  Using the excel Application [download here](https://www.microsoft.com/en-ng/)
