@@ -39,4 +39,9 @@ I learnt some basic functions such as:
 -  Success, Female, 18, Divorced
 -  Becca, Female, 20, Married
 -  God'stime, Male, 22, Single
- (https://github.com/heisdice1/SIWES-2025/blob/main/images.jpeg?raw=true)
+### 3. UNSTRUCTURED DATA:
+---
+These are data that are not arranged, they are video and picture files 
+#### Visualization
+
+![Image alt](https://github.com/heisdice1/SIWES-2025/blob/main/images.jpeg?raw=true)
