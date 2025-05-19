@@ -45,3 +45,7 @@ These are data that are not arranged, they are video and picture files
 #### Visualization
 
 ![Image alt](https://github.com/heisdice1/SIWES-2025/blob/main/images.jpeg?raw=true)
+
+**LESSON ON SQL**
+---
+`CREATE TABLE Student_Information`
